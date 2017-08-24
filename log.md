@@ -38,3 +38,12 @@
 
 **Link(s) to work**
 https://www.freecodecamp.org/
+
+### Day 1: August 23, Wednesday
+
+**Today's Progress**: Started learning about jQuery
+
+**Thoughts** Reviewing CSS and HTML helped with being introduced to jQuery. It feels more like a programming language.
+
+**Link(s) to work**
+https://www.freecodecamp.org/
