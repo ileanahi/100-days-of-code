@@ -47,3 +47,12 @@ https://www.freecodecamp.org/
 
 **Link(s) to work**
 https://www.freecodecamp.org/
+
+### Day 2: August 23, Wednesday
+
+**Today's Progress**: Started making my own tribute page
+
+**Thoughts** I thought it would be easy because I had a lot of experience with HTML and CSS in the past... But, nope! I didn't get too far today. Didn't help that my sister kept distracting me with youtube videos...
+
+**Link(s) to work**
+https://codepen.io/ileanahi/pen/prZxKG
