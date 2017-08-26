@@ -11,4 +11,7 @@ Started developing a CatPhotoApp on https://www.freecodecamp.org/ (Completed 69 
 Started learning about jQuery on https://www.freecodecamp.org/ (Completed 39 Challenges) 
 
 ### R1D3
-Started making a tribute page. Didn't get very far because of perfectionism. https://codepen.io/ileanahi/pen/prZxKG
+Started making a tribute page. https://codepen.io/ileanahi/pen/prZxKG
+
+### R1D4
+Continued work on the tribute page. https://codepen.io/ileanahi/pen/prZxKG
