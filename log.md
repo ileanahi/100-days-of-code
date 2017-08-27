@@ -65,3 +65,13 @@ https://codepen.io/ileanahi/pen/prZxKG
 
 **Link(s) to work**
 https://codepen.io/ileanahi/pen/prZxKG
+
+### Day 4: August 26, Saturday
+
+**Today's Progress**: Finished my tribute page! 
+
+**Thoughts** I'm happy with it. It took a LOT of work regarding style. I changed it so much. I might have to edit the info a bit to focus on accomplishments rather than his life.
+
+**Link(s) to work**
+https://codepen.io/ileanahi/full/prZxKG
+
