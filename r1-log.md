@@ -15,3 +15,6 @@ Started making a tribute page. https://codepen.io/ileanahi/pen/prZxKG
 
 ### R1D4
 Continued work on the tribute page. https://codepen.io/ileanahi/pen/prZxKG
+
+### R1D5
+Finished my tribute page. https://codepen.io/ileanahi/full/prZxKG/
