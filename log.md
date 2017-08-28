@@ -75,3 +75,11 @@ https://codepen.io/ileanahi/pen/prZxKG
 **Link(s) to work**
 https://codepen.io/ileanahi/full/prZxKG
 
+### Day 5: August 27, Sunday
+
+**Today's Progress**: Started my personal portfolio page.
+
+**Thoughts** I got pretty far with brainstorming and I know how I want the page to look. 
+
+**Link(s) to work**
+https://codepen.io/ileanahi/full/prZxKG
