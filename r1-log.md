@@ -21,3 +21,6 @@ Finished my tribute page. https://codepen.io/ileanahi/full/prZxKG/
 
 ### R1D6
 Started my personal portfolio page. https://codepen.io/ileanahi/pen/RZeWzB
+
+### R1D7
+Continued personal portfolio page. https://codepen.io/ileanahi/pen/zdmbwY
