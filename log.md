@@ -83,3 +83,12 @@ https://codepen.io/ileanahi/full/prZxKG
 
 **Link(s) to work**
 https://codepen.io/ileanahi/full/prZxKG
+
+### Day 6: August 28, Monday
+
+**Today's Progress**: Continued my personal portfolio page. Ran into issues with adding a javascript function in, but got it worked out!
+
+**Thoughts** I still have lots to do, but I have good momentum right now!
+
+**Link(s) to work**
+https://codepen.io/ileanahi/pen/zdmbwY
