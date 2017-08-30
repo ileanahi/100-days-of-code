@@ -92,3 +92,12 @@ https://codepen.io/ileanahi/full/prZxKG
 
 **Link(s) to work**
 https://codepen.io/ileanahi/pen/zdmbwY
+
+### Day 7: August 29, Tuesday
+
+**Today's Progress**: Continued my personal portfolio page. Started working on the About Me section.
+
+**Thoughts** I have no idea what I want to say... Maybe tomorrow I'll skip it and just start on the portfolio part.
+
+**Link(s) to work**
+https://codepen.io/ileanahi/pen/RZeWzB
