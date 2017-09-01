@@ -27,3 +27,6 @@ Continued personal portfolio page. https://codepen.io/ileanahi/pen/zdmbwY
 
 ###R1D8
 Started About section of my portfolio page. https://codepen.io/ileanahi/pen/RZeWzB
+
+###R1D9
+Got the skeleton of my portfolio done. https://codepen.io/ileanahi/pen/RZeWzB
