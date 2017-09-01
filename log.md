@@ -101,3 +101,12 @@ https://codepen.io/ileanahi/pen/zdmbwY
 
 **Link(s) to work**
 https://codepen.io/ileanahi/pen/RZeWzB
+
+### Day 8: August 31, Thursday
+
+**Today's Progress**: Got the main skeleton of my portfolio finished.
+
+**Thoughts** There's a lot that I want to do stylistically and I still have to add the links to different sections of my page.
+
+**Link(s) to work**
+https://codepen.io/ileanahi/pen/RZeWzB
