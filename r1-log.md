@@ -30,3 +30,6 @@ Started About section of my portfolio page. https://codepen.io/ileanahi/pen/RZeW
 
 ###R1D9
 Got the skeleton of my portfolio done. https://codepen.io/ileanahi/pen/RZeWzB
+
+###R1D10
+Changed the home container to have a static image instead of just a block of color. https://codepen.io/ileanahi/pen/RZeWzB
