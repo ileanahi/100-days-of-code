@@ -110,3 +110,12 @@ https://codepen.io/ileanahi/pen/RZeWzB
 
 **Link(s) to work**
 https://codepen.io/ileanahi/pen/RZeWzB
+
+### Day 9: September 1, Friday
+
+**Today's Progress**: Edited home container to have a static image.
+
+**Thoughts** I always loved the effect of having a static image on scroll. Tomorrow I will work on adding smooth-scroll navigation and work on my nav bar.
+
+**Link(s) to work**
+https://codepen.io/ileanahi/pen/RZeWzB
