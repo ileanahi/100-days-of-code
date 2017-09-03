@@ -119,3 +119,12 @@ https://codepen.io/ileanahi/pen/RZeWzB
 
 **Link(s) to work**
 https://codepen.io/ileanahi/pen/RZeWzB
+
+### Day 10: September 2, Saturday
+
+**Today's Progress**: Added a navigation bar and finished my page (for now).
+
+**Thoughts** Small victories! I still think my portfolio needs more work done on it, but I think it's okay for now.
+
+**Link(s) to work**
+https://codepen.io/ileanahi/full/RZeWzB/
