@@ -33,3 +33,6 @@ Got the skeleton of my portfolio done. https://codepen.io/ileanahi/pen/RZeWzB
 
 ###R1D10
 Changed the home container to have a static image instead of just a block of color. https://codepen.io/ileanahi/pen/RZeWzB
+
+###R1D11
+Finished my portfolio. https://codepen.io/ileanahi/full/RZeWzB/
