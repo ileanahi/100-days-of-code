@@ -128,3 +128,12 @@ https://codepen.io/ileanahi/pen/RZeWzB
 
 **Link(s) to work**
 https://codepen.io/ileanahi/full/RZeWzB/
+
+### Day 11: September 3, Sunday
+
+**Today's Progress**: Fixed the responsivess of my design and my social media links.
+
+**Thoughts** I'm considering adding an email form, but I'm not sure if I should.
+
+**Link(s) to work**
+https://codepen.io/ileanahi/full/RZeWzB/
