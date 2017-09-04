@@ -36,3 +36,6 @@ Changed the home container to have a static image instead of just a block of col
 
 ###R1D11
 Finished my portfolio. https://codepen.io/ileanahi/full/RZeWzB/
+
+###R1D12
+Fixed the responsiveness of my design. https://codepen.io/ileanahi/full/RZeWzB
