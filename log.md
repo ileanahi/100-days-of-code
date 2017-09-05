@@ -137,3 +137,12 @@ https://codepen.io/ileanahi/full/RZeWzB/
 
 **Link(s) to work**
 https://codepen.io/ileanahi/full/RZeWzB/
+
+### Day 12: September 4, Monday
+
+**Today's Progress**: Brushed up on JavaScript syntax
+
+**Thoughts** I learned some new things. 
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
