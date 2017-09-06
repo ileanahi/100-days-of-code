@@ -42,3 +42,6 @@ Fixed the responsiveness of my design. https://codepen.io/ileanahi/full/RZeWzB
 
 ###R1D13
 Brushed on JavaScript syntax. https://www.freecodecamp.org/ileanahi
+
+###R1D14
+More JavaScript. https://www.freecodecamp.org/ileanahi
