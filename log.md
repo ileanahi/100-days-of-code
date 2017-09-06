@@ -146,3 +146,13 @@ https://codepen.io/ileanahi/full/RZeWzB/
 
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
+
+### Day 13: September 5, Tuesday
+
+**Today's Progress**: More JavaScript
+
+**Thoughts** I learned some new things. 
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
+
