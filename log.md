@@ -156,3 +156,11 @@ https://www.freecodecamp.org/ileanahi
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
 
+### Day 14: September 6, Wednesday
+
+**Today's Progress**: More JavaScript on FCC. I learned about JSON and accessing arrays.
+
+**Thoughts** I knew the methods of accessing certain things, but I didn't really understand it until today.
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
