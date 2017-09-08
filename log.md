@@ -164,3 +164,12 @@ https://www.freecodecamp.org/ileanahi
 
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
+
+### Day 15: September 7, Thursday
+
+**Today's Progress**: Learned about JavaScript and Object Oriented Programming.
+
+**Thoughts** I have so much to learn, and I'm glad that I'm learning it now.
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
