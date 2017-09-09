@@ -48,3 +48,9 @@ More JavaScript. https://www.freecodecamp.org/ileanahi
 
 ###R1D15
 Continued with JavaScript exercises on FCC. https://www.freecodecamp.org/ileanahi
+
+###R1D16
+Learned about JavaScript Objects. https://www.freecodecamp.org/ileanahi
+
+###R1D17
+Built-in JavaScript functions and Constructor functions. https://www.freecodecamp.org/ileanahi
