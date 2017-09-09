@@ -173,3 +173,12 @@ https://www.freecodecamp.org/ileanahi
 
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
+
+### Day 16: September 8, Friday
+
+**Today's Progress**: Learned about JavaScript built-in functions and constructor functions.
+
+**Thoughts** More understanding! It's great.
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
