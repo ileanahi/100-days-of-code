@@ -182,3 +182,12 @@ https://www.freecodecamp.org/ileanahi
 
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
+
+### Day 17: September 8, Friday
+
+**Today's Progress**: Completed four algorithm challenges on FCC.
+
+**Thoughts** These challenges really make you think!
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
