@@ -54,3 +54,6 @@ Learned about JavaScript Objects. https://www.freecodecamp.org/ileanahi
 
 ###R1D17
 Built-in JavaScript functions and Constructor functions. https://www.freecodecamp.org/ileanahi
+
+###R1D18
+Completed four algorithm challenges on FCC today. https://www.freecodecamp.org/ileanahi
