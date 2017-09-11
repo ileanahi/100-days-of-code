@@ -57,3 +57,6 @@ Built-in JavaScript functions and Constructor functions. https://www.freecodecam
 
 ###R1D18
 Completed four algorithm challenges on FCC today. https://www.freecodecamp.org/ileanahi
+
+###R1D19
+Finished one algorithm challenge on FCC. https://www.freecodecamp.org/ileanahi
