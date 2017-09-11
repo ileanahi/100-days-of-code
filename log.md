@@ -183,11 +183,20 @@ https://www.freecodecamp.org/ileanahi
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
 
-### Day 17: September 8, Friday
+### Day 17: September 9, Saturday
 
 **Today's Progress**: Completed four algorithm challenges on FCC.
 
 **Thoughts** These challenges really make you think!
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
+
+### Day 18: September 10, Sunday
+
+**Today's Progress**: Completed one algorithm challenge on FCC.
+
+**Thoughts** I feel a little upset with how slow I am solving the problems. 
 
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
