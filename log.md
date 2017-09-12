@@ -200,3 +200,12 @@ https://www.freecodecamp.org/ileanahi
 
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
+
+### Day 20: September 11, Monday
+
+**Today's Progress**: Completed largest numbers challenge on FCC.
+
+**Thoughts** I'm learning a lot about what certain functions do.
+
+**Link(s) to work**
+https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays
