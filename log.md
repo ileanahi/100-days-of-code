@@ -201,7 +201,7 @@ https://www.freecodecamp.org/ileanahi
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
 
-### Day 20: September 11, Monday
+### Day 19: September 11, Monday
 
 **Today's Progress**: Completed largest numbers challenge on FCC.
 
@@ -209,3 +209,11 @@ https://www.freecodecamp.org/ileanahi
 
 **Link(s) to work**
 https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays
+
+### Day 20: September 12, Tuesday
+
+**Today's Progress**: Setup VS Code.
+
+**Thoughts** There are SO many helpful plug ins!
+
+**Link(s) to work**
