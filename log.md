@@ -217,3 +217,12 @@ https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays
 **Thoughts** There are SO many helpful plug ins!
 
 **Link(s) to work**
+
+### Day 21: September 13, Wednesday
+
+**Today's Progress**: Completed Confirm the Ending, Repeat a string repeat a string, and Truncate a string.
+
+**Thoughts** I'm proud of how quickly I got these three completed!
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
