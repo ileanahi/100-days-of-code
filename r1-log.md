@@ -66,3 +66,6 @@ Finished the largest number algorithm challenge on FCC. https://www.freecodecamp
 
 ###R1D21
 Set up VS Code. 
+
+###R1D22
+Completed Confirm the Ending, Repeat a string repeat a string, and Truncate a string. https://www.freecodecamp.org/ileanahi
