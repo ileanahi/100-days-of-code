@@ -226,3 +226,12 @@ https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays
 
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
+
+### Day 22: September 14, Thursday
+
+**Today's Progress**: Completed Chunky Monkey and Slasher Flick algorithms.
+
+**Thoughts** I was almost finished with Mutations, but my code didn't work for one situation....
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
