@@ -69,3 +69,6 @@ Set up VS Code.
 
 ###R1D22
 Completed Confirm the Ending, Repeat a string repeat a string, and Truncate a string. https://www.freecodecamp.org/ileanahi
+
+###R1D23
+Completed Chunky Monkey and Slasher Flick algorithms. https://www.freecodecamp.org/ileanahi
