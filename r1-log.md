@@ -72,3 +72,6 @@ Completed Confirm the Ending, Repeat a string repeat a string, and Truncate a st
 
 ###R1D23
 Completed Chunky Monkey and Slasher Flick algorithms. https://www.freecodecamp.org/ileanahi
+
+###R1D24
+Worked on boolean examples. https://www.freecodecamp.org/ileanahi
