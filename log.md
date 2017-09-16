@@ -235,3 +235,12 @@ https://www.freecodecamp.org/ileanahi
 
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
+
+### Day 23: September 15, Friday
+
+**Today's Progress**: Worked on boolean examples.
+
+**Thoughts** Why do they make it so confusing to understand...
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
