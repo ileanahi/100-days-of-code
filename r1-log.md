@@ -75,3 +75,6 @@ Completed Chunky Monkey and Slasher Flick algorithms. https://www.freecodecamp.o
 
 ###R1D24
 Worked on boolean examples. https://www.freecodecamp.org/ileanahi
+
+###R1D25
+Learned about APIs and JSON. https://www.freecodecamp.org/ileanahi
