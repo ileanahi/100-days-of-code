@@ -244,3 +244,12 @@ https://www.freecodecamp.org/ileanahi
 
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
+
+### Day 24: October 29, Saturday
+
+**Today's Progress**: Learned about APIs and JSON.
+
+**Thoughts** You can do a lot with APIs!
+
+**Link(s) to work**
+https://www.freecodecamp.org/ileanahi
