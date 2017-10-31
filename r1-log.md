@@ -78,3 +78,6 @@ Worked on boolean examples. https://www.freecodecamp.org/ileanahi
 
 ###R1D25
 Learned about APIs and JSON. https://www.freecodecamp.org/ileanahi
+
+###R1D26
+Debugged my portfolio page. https://codepen.io/ileanahi/full/RZeWzB/
