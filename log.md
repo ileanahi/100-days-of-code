@@ -245,7 +245,7 @@ https://www.freecodecamp.org/ileanahi
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
 
-### Day 24: October 29, Saturday
+### Day 24: October 29, Sunday
 
 **Today's Progress**: Learned about APIs and JSON.
 
@@ -253,3 +253,12 @@ https://www.freecodecamp.org/ileanahi
 
 **Link(s) to work**
 https://www.freecodecamp.org/ileanahi
+
+### Day 25: October 30, Monday
+
+**Today's Progress**: Fixed up some bugs that I had on my portfolio page.
+
+**Thoughts** It took me some time to look through everything, but I finally figured it out!
+
+**Link(s) to work**
+https://codepen.io/ileanahi/full/RZeWzB/
