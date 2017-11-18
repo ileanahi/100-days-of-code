@@ -262,3 +262,12 @@ https://www.freecodecamp.org/ileanahi
 
 **Link(s) to work**
 https://codepen.io/ileanahi/full/RZeWzB/
+
+### Day 26: November 17, Friday
+
+**Today's Progress**: Started work on Random Quote Machine
+
+**Thoughts** I'm so excited to see the outcome! 
+
+**Link(s) to work**
+https://codepen.io/ileanahi/full/VryLYr
