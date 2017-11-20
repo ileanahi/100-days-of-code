@@ -84,3 +84,9 @@ Debugged my portfolio page. https://codepen.io/ileanahi/full/RZeWzB/
 
 ###R1D27
 Started random quote machine. https://codepen.io/ileanahi/full/VryLYr
+
+###R1D28
+Research for random quote machine. https://codepen.io/ileanahi/full/VryLYr
+
+###R1D29
+Finished random quote machine. https://codepen.io/ileanahi/full/VryLYr
