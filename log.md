@@ -271,3 +271,12 @@ https://codepen.io/ileanahi/full/RZeWzB/
 
 **Link(s) to work**
 https://codepen.io/ileanahi/full/VryLYr
+
+### Day 26: November 17, Friday
+
+**Today's Progress**: Studied Javascript for Random Quote Machine.
+
+**Thoughts** There's so much to learn!
+
+**Link(s) to work**
+https://codepen.io/ileanahi/full/VryLYr
