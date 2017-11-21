@@ -289,3 +289,12 @@ https://codepen.io/ileanahi/full/VryLYr
 
 **Link(s) to work**
 https://codepen.io/ileanahi/full/VryLYr
+
+### Day 29: November 20, Monday
+
+**Today's Progress**: Started planning for the weather machine.
+
+**Thoughts** I have most of what I want it to look like planned.
+
+**Link(s) to work**
+https://codepen.io/ileanahi/full/RjMNJR
