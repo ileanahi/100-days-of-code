@@ -90,3 +90,6 @@ Research for random quote machine. https://codepen.io/ileanahi/full/VryLYr
 
 ###R1D29
 Finished random quote machine. https://codepen.io/ileanahi/full/VryLYr
+
+###R1D29
+Planning for weather machine. https://codepen.io/ileanahi/pen/RjMNJR
