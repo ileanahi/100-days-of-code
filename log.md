@@ -298,3 +298,12 @@ https://codepen.io/ileanahi/full/VryLYr
 
 **Link(s) to work**
 https://codepen.io/ileanahi/full/RjMNJR
+
+### Day 30: November 21, Tuesday
+
+**Today's Progress**: Started Codecademy's intro to Java course
+
+**Thoughts** All programming languages are pretty similar...
+
+**Link(s) to work**
+https://www.codecademy.com/courses/learn-java/
