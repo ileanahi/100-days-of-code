@@ -93,3 +93,6 @@ Finished random quote machine. https://codepen.io/ileanahi/full/VryLYr
 
 ###R1D30
 Planning for weather machine. https://codepen.io/ileanahi/pen/RjMNJR
+
+###R1D30
+Started learning Java. https://www.codecademy.com/courses/learn-java/
