@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+
+## Restart!
+
+### Day 0: April 24, 2018 
+
+**Today's Progress**: Started the Udacity Front-End Development Nanodegree!
+
+**Thoughts**: Easy day! Created a different Animal Trading Card for Phase 2!
+
+**Link(s) to work**: https://codepen.io/ileanahi/pen/YLWwPR
+
+
+
+
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -307,3 +322,7 @@ https://codepen.io/ileanahi/full/RjMNJR
 
 **Link(s) to work**
 https://www.codecademy.com/courses/learn-java/
+
+
+
+
