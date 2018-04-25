@@ -1,8 +1,19 @@
 # #100DaysOfCode Log - Round 1 - Ileana
 
-The log of my #100DaysOfCode challenge. Started on [August 22, Tuesday, 2017].
+The log of my #100DaysOfCode challenge. Started on [April 24, Tuesday, 2018].
 
 ## Log
+
+### R1D1
+Created an [animal trading card]https://codepen.io/ileanahi/pen/YLWwPR
+
+
+
+
+
+
+
+
 
 ### R1D1 
 Started developing a CatPhotoApp on https://www.freecodecamp.org/ (Completed 69 Challenges)
