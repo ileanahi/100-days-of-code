@@ -7,6 +7,8 @@ The log of my #100DaysOfCode challenge. Started on [April 24, Tuesday, 2018].
 ### R1D1
 Created an [animal trading card](https://codepen.io/ileanahi/pen/YLWwPR)
 
+### R1D2
+Started a [gif search app](https://codepen.io/ileanahi/pen/MGjeeR)
 
 
 
