@@ -13,9 +13,9 @@
 
 ### Day 1: April 25, 2018 
 
-**Today's Progress**: Started creating an app to search for gifs.
+**Today's Progress**: Started working on an app to compare foreign monies
 
-**Thoughts**: I'm pumped for the challenge, but worried about how long it will take me to complete it.
+**Thoughts**: A lot of learning about APIs!
 
 **Link(s) to work**: https://codepen.io/ileanahi/pen/MGjeeR
 
