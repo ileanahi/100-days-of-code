@@ -11,7 +11,13 @@
 
 **Link(s) to work**: https://codepen.io/ileanahi/pen/YLWwPR
 
+### Day 1: April 25, 2018 
 
+**Today's Progress**: Started creating an app to search for gifs.
+
+**Thoughts**: I'm pumped for the challenge, but worried about how long it will take me to complete it.
+
+**Link(s) to work**: https://codepen.io/ileanahi/pen/MGjeeR
 
 
 
