@@ -10,7 +10,8 @@ Created an [animal trading card](https://codepen.io/ileanahi/pen/YLWwPR)
 ### R1D2
 Started a [foreign exchange rate app](https://codepen.io/ileanahi/pen/MGjeeR)
 
-
+### R1D3
+Made a [website responsive](https://github.com/ileanahi/gwg-front-end-dev)
 
 
 
