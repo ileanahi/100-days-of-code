@@ -27,6 +27,14 @@
 
 **Link(s) to work**: https://github.com/ileanahi/gwg-front-end-dev
 
+### Day 2: April 26, 2018 
+
+**Today's Progress**: Fixed a webpage to make it responsive.
+
+**Thoughts**: It's important to think mobile first!
+
+**Link(s) to work**: https://github.com/ileanahi/api-projects/tree/master/ghibli
+
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
