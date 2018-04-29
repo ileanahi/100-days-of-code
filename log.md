@@ -27,13 +27,23 @@
 
 **Link(s) to work**: https://github.com/ileanahi/gwg-front-end-dev
 
-### Day 2: April 26, 2018 
+### Day 3: April 27, 2018 
 
 **Today's Progress**: Fixed a webpage to make it responsive.
 
 **Thoughts**: It's important to think mobile first!
 
 **Link(s) to work**: https://github.com/ileanahi/api-projects/tree/master/ghibli
+
+### Day 4: April 28, 2018 
+
+**Today's Progress**: Continued working on the currency exchange app. Looked into the money.js library.
+
+**Thoughts**: I still can't get my head around APIs...
+
+**Link(s) to work**: https://rawgit.com/ileanahi/api-projects/master/currency-exchange/index.html
+
+
 
 
 <!--### Day 0: February 30, 2016 (Example 1)
