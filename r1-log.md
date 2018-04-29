@@ -16,6 +16,8 @@ Made a [website responsive](https://github.com/ileanahi/gwg-front-end-dev)
 ### R1D4
 Made a [web app that lists the Ghibli movies](https://github.com/ileanahi/api-projects/tree/master/ghibli)
 
+### R1D5 
+Worked on the [Currency Exchange App](https://rawgit.com/ileanahi/api-projects/master/currency-exchange/index.html)
 
 
 
