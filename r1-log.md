@@ -19,6 +19,9 @@ Made a [web app that lists the Ghibli movies](https://github.com/ileanahi/api-pr
 ### R1D5 
 Worked on the [Currency Exchange App](https://rawgit.com/ileanahi/api-projects/master/currency-exchange/index.html)
 
+### R1D6
+Worked on FCC [lessons](https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939)
+
 
 
 
