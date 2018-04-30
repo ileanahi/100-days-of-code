@@ -43,6 +43,13 @@
 
 **Link(s) to work**: https://rawgit.com/ileanahi/api-projects/master/currency-exchange/index.html
 
+### Day 5: April 29, 2018 
+
+**Today's Progress**: Worked on FCC lessons.
+
+**Thoughts**: This animate CSS stuff is really cool!
+
+**Link(s) to work**: https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939
 
 
 
