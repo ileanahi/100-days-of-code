@@ -51,6 +51,13 @@
 
 **Link(s) to work**: https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939
 
+### Day 6: April 30, 2018 
+
+**Today's Progress**: Worked on FCC lessons for accessibility.
+
+**Thoughts**: When I used to code websites, I didn't really think about accessibility. It's awesome that it's considered now!
+
+**Link(s) to work**: https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939
 
 
 <!--### Day 0: February 30, 2016 (Example 1)
