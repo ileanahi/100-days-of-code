@@ -25,6 +25,21 @@ Worked on FCC [lessons](https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a
 ### R1D7
 Worked on FCC [lessons on accessibility](https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939)
 
+### R1D8
+Worked on making the [hometown page responsive](https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### R1D1 
 Started developing a CatPhotoApp on https://www.freecodecamp.org/ (Completed 69 Challenges)
