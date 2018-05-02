@@ -59,6 +59,14 @@
 
 **Link(s) to work**: https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939
 
+### Day 7: May 1, 2018 
+
+**Today's Progress**: Worked on making the hometown webpage responsive.
+
+**Thoughts**: It's nice that there are a few common ways to make webpages responsive. It makes it easy to learn!
+
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html
+
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
