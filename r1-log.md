@@ -28,6 +28,8 @@ Worked on FCC [lessons on accessibility](https://beta.freecodecamp.org/en/fcc071
 ### R1D8
 Worked on making the [hometown page responsive](https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html)
 
+### R1D9
+Learned about responsive images, fonts, and tables to apply to the [hometown page.](https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html)
 
 
 
