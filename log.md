@@ -67,6 +67,18 @@
 
 **Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html
 
+### Day 7: May 1, 2018 
+
+**Today's Progress**: More work on the hometown webpage using the new things I learned from the ND.
+
+**Thoughts**: Sometimes the most annoying part is trying to make everything readable and still display inline...
+
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html
+
+
+
+
+
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
