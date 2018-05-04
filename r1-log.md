@@ -31,7 +31,8 @@ Worked on making the [hometown page responsive](https://rawgit.com/ileanahi/gwg-
 ### R1D9
 Learned about responsive images, fonts, and tables to apply to the [hometown page.](https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html)
 
-
+### R1D9
+Edited the [hometown page.](https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html) and truncated paragraphs.
 
 
 
