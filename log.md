@@ -67,7 +67,7 @@
 
 **Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html
 
-### Day 7: May 1, 2018 
+### Day 8: May 2, 2018 
 
 **Today's Progress**: More work on the hometown webpage using the new things I learned from the ND.
 
@@ -75,7 +75,13 @@
 
 **Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html
 
+### Day 9: May 3, 2018 
 
+**Today's Progress**: Learned how to truncate texts with pure CSS.
+
+**Thoughts**: It feels like CSS can do everything!
+
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html
 
 
 
