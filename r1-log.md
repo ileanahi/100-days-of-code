@@ -31,9 +31,11 @@ Worked on making the [hometown page responsive](https://rawgit.com/ileanahi/gwg-
 ### R1D9
 Learned about responsive images, fonts, and tables to apply to the [hometown page.](https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html)
 
-### R1D9
+### R1D10
 Edited the [hometown page.](https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html) and truncated paragraphs.
 
+### R1D11
+Finished the [accessibility section on FCC](https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939)
 
 
 
