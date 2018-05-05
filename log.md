@@ -83,7 +83,13 @@
 
 **Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/responsive-design/index.html
 
+### Day 10: May 4, 2018 
 
+**Today's Progress**: Finished the applied accessibility section on FCC
+
+**Thoughts**: You can spread your message further if you consider everyone!
+
+**Link(s) to work**: https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939
 
 
 <!--### Day 0: February 30, 2016 (Example 1)
