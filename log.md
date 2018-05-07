@@ -91,6 +91,13 @@
 
 **Link(s) to work**: https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939
 
+### Day 11: May 6, 2018 
+
+**Today's Progress**: Started on my portfolio page
+
+**Thoughts**: Having a rubric to tell you what you should include, it's the stylistic things that are hard!
+
+**Link(s) to work**: 
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
