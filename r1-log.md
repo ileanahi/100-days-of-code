@@ -37,6 +37,9 @@ Edited the [hometown page.](https://rawgit.com/ileanahi/gwg-front-end-dev/master
 ### R1D11
 Finished the [accessibility section on FCC](https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939)
 
+### R1D12
+Started on my [portfolio project](#)
+
 
 
 
