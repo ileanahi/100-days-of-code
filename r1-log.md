@@ -40,6 +40,9 @@ Finished the [accessibility section on FCC](https://beta.freecodecamp.org/en/fcc
 ### R1D12
 Started on my [portfolio project](#)
 
+### R1D13
+(Mostly) finished the mobile layout of my [portfolio page!](#)
+
 
 
 
