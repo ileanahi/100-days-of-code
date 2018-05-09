@@ -97,7 +97,24 @@
 
 **Thoughts**: Having a rubric to tell you what you should include, it's the stylistic things that are hard!
 
-**Link(s) to work**: 
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html
+
+### Day 12: May 7, 2018 
+
+**Today's Progress**: (Mostly) finished the mobile layout of my portfolio page!
+
+**Thoughts**: The amount of time I spent deleting things and reorganizing everything is pretty embarrassing...
+
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html
+
+### Day 13: May 8, 2018 
+
+**Today's Progress**: Finished my portfolio page!
+
+**Thoughts**: Getting the desktop version finished was very easy once I finished the mobile version.
+
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html
+
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
