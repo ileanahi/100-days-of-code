@@ -38,12 +38,13 @@ Edited the [hometown page.](https://rawgit.com/ileanahi/gwg-front-end-dev/master
 Finished the [accessibility section on FCC](https://beta.freecodecamp.org/en/fcc0713be61-a157-482d-a240-5d40cc1e9939)
 
 ### R1D12
-Started on my [portfolio project](#)
+Started on my [portfolio project](https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html)
 
 ### R1D13
-(Mostly) finished the mobile layout of my [portfolio page!](#)
+(Mostly) finished the mobile layout of my [portfolio page!](https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html)
 
-
+### R1D14
+Finished my [portfolio page](https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html)
 
 
 
