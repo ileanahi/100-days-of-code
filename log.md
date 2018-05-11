@@ -115,6 +115,14 @@
 
 **Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html
 
+### Day 43: May 10, 2018 
+
+**Today's Progress**: Learned about the shell!
+
+**Thoughts**: I learned most of this stuff informally, so having a course to explain it is pretty nice!
+
+**Link(s) to work**: 
+
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
