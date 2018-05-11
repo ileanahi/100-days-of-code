@@ -46,7 +46,8 @@ Started on my [portfolio project](https://rawgit.com/ileanahi/gwg-front-end-dev/
 ### R1D14
 Finished my [portfolio page](https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html)
 
-
+### R1D15
+Learned about the shell.
 
 
 
