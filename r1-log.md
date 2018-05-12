@@ -52,6 +52,21 @@ Learned about the shell.
 ### R1D16
 More shell learning.
 
+### R1D17
+Learned about version control and git repos.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
