@@ -49,7 +49,8 @@ Finished my [portfolio page](https://rawgit.com/ileanahi/gwg-front-end-dev/maste
 ### R1D15
 Learned about the shell.
 
-
+### R1D16
+More shell learning.
 
 
 
