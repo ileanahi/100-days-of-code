@@ -115,6 +115,24 @@
 
 **Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html
 
+### Day 14: May 10, 2018 
+
+**Today's Progress**: Learned more about the command shell.
+
+**Thoughts**: Learning through doing is very different than learning in a class!
+
+**Link(s) to work**: 
+
+### Day 15: May 11, 2018 
+
+**Today's Progress**: More learning about the shell.
+
+**Thoughts**: It's so cool that you can pull the code from anywhere!
+
+**Link(s) to work**: 
+
+
+
 ### Day 43: May 10, 2018 
 
 **Today's Progress**: Learned about the shell!
