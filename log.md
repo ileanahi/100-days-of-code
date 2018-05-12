@@ -131,15 +131,33 @@
 
 **Link(s) to work**: 
 
+### Day 16: May 12, 2018 
 
+**Today's Progress**: Learned about version control and creating git repos.
 
-### Day 43: May 10, 2018 
-
-**Today's Progress**: Learned about the shell!
-
-**Thoughts**: I learned most of this stuff informally, so having a course to explain it is pretty nice!
+**Thoughts**: I really liked the way they explained it in the course.
 
 **Link(s) to work**: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--### Day 0: February 30, 2016 (Example 1)
