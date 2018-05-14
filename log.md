@@ -139,6 +139,13 @@
 
 **Link(s) to work**: 
 
+### Day 17: May 13, 2018 
+
+**Today's Progress**: Cleaned up some old sites that I created.
+
+**Thoughts**: After learning so much, it's hard not to cringe at past work!
+
+**Link(s) to work**: https://codepen.io/ileanahi/
 
 
 
