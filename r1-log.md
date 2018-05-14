@@ -55,7 +55,8 @@ More shell learning.
 ### R1D17
 Learned about version control and git repos.
 
-
+### R1D18
+Cleaned up [past projects](https://codepen.io/ileanahi/)
 
 
 
