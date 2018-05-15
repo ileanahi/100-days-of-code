@@ -147,7 +147,13 @@
 
 **Link(s) to work**: https://codepen.io/ileanahi/
 
+### Day 18: May 14, 2018 
 
+**Today's Progress**: Worked on my portfolio again.
+
+**Thoughts**: How many iterations will it take for me to be satisfied with it?
+
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html
 
 
 
