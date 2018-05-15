@@ -58,7 +58,8 @@ Learned about version control and git repos.
 ### R1D18
 Cleaned up [past projects](https://codepen.io/ileanahi/)
 
-
+### R1D19
+Started redoing my [portfolio page](https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html)
 
 
 
