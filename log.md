@@ -155,7 +155,13 @@
 
 **Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio/index.html
 
+### Day 19: May 15, 2018 
 
+**Today's Progress**: Played around with my old portfolio and then decided to make a new one.
+
+**Thoughts**: Hopefully this is the one!
+
+**Link(s) to work**: 
 
 
 
