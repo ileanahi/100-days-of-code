@@ -163,7 +163,13 @@
 
 **Link(s) to work**: 
 
+### Day 20: May 16, 2018 
 
+**Today's Progress**: Finished the header and the about me section of my portfolio.
+
+**Thoughts**: Things go a lot smoother when you have a plan...
+
+**Link(s) to work**: 
 
 
 
