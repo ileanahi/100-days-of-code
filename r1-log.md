@@ -64,7 +64,8 @@ Started redoing my [portfolio page](https://rawgit.com/ileanahi/gwg-front-end-de
 ### R1D20
 Started an entirely different portfolio page.
 
-
+### R1D21
+Finished the about me section of my portfolio page.
 
 
 
