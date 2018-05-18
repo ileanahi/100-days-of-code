@@ -161,7 +161,7 @@
 
 **Thoughts**: Hopefully this is the one!
 
-**Link(s) to work**: 
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio-v2/index.html
 
 ### Day 20: May 16, 2018 
 
@@ -169,8 +169,15 @@
 
 **Thoughts**: Things go a lot smoother when you have a plan...
 
-**Link(s) to work**: 
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio-v2/index.html
 
+### Day 21: May 17, 2018
+
+**Today's Progress**: Finished the second iteration of my portfolio!
+
+**Thoughts**: I'm so proud of my work! It's responsive AND different than other portfolios. Yay creativity!
+
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio-v2/index.html
 
 
 
