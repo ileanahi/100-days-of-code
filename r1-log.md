@@ -67,7 +67,8 @@ Started an entirely different portfolio page.
 ### R1D21
 Finished the about me section of my portfolio page.
 
-
+### R1D22
+Finished the second iteration of my [portfolio page!](https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio-v2/index.html)
 
 
 
