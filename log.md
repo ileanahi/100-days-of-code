@@ -179,6 +179,13 @@
 
 **Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio-v2/index.html
 
+### Day 22: May 18, 2018
+
+**Today's Progress**: Used css variables for the colors, changed the fonts, edited the skills section.
+
+**Thoughts**: CSS variables make life so much easier!
+
+**Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio-v2/index.html
 
 
 
