@@ -70,7 +70,8 @@ Finished the about me section of my portfolio page.
 ### R1D22
 Finished the second iteration of my [portfolio page!](https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio-v2/index.html)
 
-
+### R1D23
+Edited the colors, fonts, and content on my [portfolio page](https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio-v2/index.html)
 
 
 
