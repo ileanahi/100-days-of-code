@@ -187,6 +187,13 @@
 
 **Link(s) to work**: https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio-v2/index.html
 
+### Day 23: May 19, 2018
+
+**Today's Progress**: Started rebuilding my Pixel Art Maker in vanilla JavaScript.
+
+**Thoughts**: Knowing Vanilla JS is important!
+
+**Link(s) to work**: 
 
 
 
