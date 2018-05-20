@@ -73,7 +73,8 @@ Finished the second iteration of my [portfolio page!](https://rawgit.com/ileanah
 ### R1D23
 Edited the colors, fonts, and content on my [portfolio page](https://rawgit.com/ileanahi/gwg-front-end-dev/master/portfolio-v2/index.html)
 
-
+### R1D24
+Started rebuilding my Pixel Art Maker in vanilla JS.
 
 
 ### R1D1 
