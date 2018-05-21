@@ -195,7 +195,13 @@
 
 **Link(s) to work**: 
 
+### Day 24: May 20, 2018
 
+**Today's Progress**: Continued building the Pixel Art Maker in Vanilla JavaScript
+
+**Thoughts**: I probably should have learned JS before I started making things in jQuery...
+
+**Link(s) to work**: 
 
 
 
