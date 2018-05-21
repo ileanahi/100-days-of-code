@@ -76,6 +76,12 @@ Edited the colors, fonts, and content on my [portfolio page](https://rawgit.com/
 ### R1D24
 Started rebuilding my Pixel Art Maker in vanilla JS.
 
+### R1D25
+Continued rebuilding my Pixel Art Maker in Vanilla JS.
+
+
+
+
 
 ### R1D1 
 Started developing a CatPhotoApp on https://www.freecodecamp.org/ (Completed 69 Challenges)
