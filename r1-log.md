@@ -79,7 +79,8 @@ Started rebuilding my Pixel Art Maker in vanilla JS.
 ### R1D25
 Continued rebuilding my Pixel Art Maker in Vanilla JS.
 
-
+### R1D26
+Learned more about Git
 
 
 
