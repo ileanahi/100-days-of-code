@@ -211,7 +211,13 @@
 
 **Link(s) to work**: 
 
+### Day 26: May 23, 2018
 
+**Today's Progress**: Learned about remote repositories.
+
+**Thoughts**: I thought I understood it before, but now I _really_ understand it.
+
+**Link(s) to work**: 
 
 
 
