@@ -82,6 +82,10 @@ Continued rebuilding my Pixel Art Maker in Vanilla JS.
 ### R1D26
 Learned more about Git
 
+### R1D27
+Learned about remote repositories.
+
+
 
 
 ### R1D1 
