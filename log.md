@@ -203,7 +203,13 @@
 
 **Link(s) to work**: 
 
+### Day 25: May 21, 2018
 
+**Today's Progress**: Learned more about Git.
+
+**Thoughts**: It's nice to actually have someone explain it to you...
+
+**Link(s) to work**: 
 
 
 
