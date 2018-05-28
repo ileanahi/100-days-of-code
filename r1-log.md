@@ -85,6 +85,8 @@ Learned more about Git
 ### R1D27
 Learned about remote repositories.
 
+### R1D28
+Finished the Udacity FEND git lessons.
 
 
 
