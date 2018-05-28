@@ -213,12 +213,19 @@
 
 ### Day 26: May 23, 2018
 
-**Today's Progress**: Learned about remote repositories.
+**Today's7Progress**: Learned about remote repositories.
 
 **Thoughts**: I thought I understood it before, but now I _really_ understand it.
 
 **Link(s) to work**: 
 
+### Day 27: May 27, 2018
+
+**Today's Progress**: Finally finished the lessons on Git.
+
+**Thoughts**: That took forever. Time for actual coding now!
+
+**Link(s) to work**: 
 
 
 
