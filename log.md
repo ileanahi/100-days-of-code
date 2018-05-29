@@ -227,6 +227,24 @@
 
 **Link(s) to work**: 
 
+### Day 27: May 27, 2018
+
+**Today's Progress**: Reviewed DOM manipulation
+
+**Thoughts**: I'm a wizard!
+
+**Link(s) to work**: 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
