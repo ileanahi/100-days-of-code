@@ -88,6 +88,11 @@ Learned about remote repositories.
 ### R1D28
 Finished the Udacity FEND git lessons.
 
+### R1D29
+Reviewing DOM manipulation.
+
+
+
 
 
 ### R1D1 
