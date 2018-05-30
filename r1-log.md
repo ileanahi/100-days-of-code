@@ -91,7 +91,8 @@ Finished the Udacity FEND git lessons.
 ### R1D29
 Reviewing DOM manipulation.
 
-
+### R1D30
+Started working on the memory game project.
 
 
 
