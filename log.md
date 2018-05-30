@@ -213,7 +213,7 @@
 
 ### Day 26: May 23, 2018
 
-**Today's7Progress**: Learned about remote repositories.
+**Today's Progress**: Learned about remote repositories.
 
 **Thoughts**: I thought I understood it before, but now I _really_ understand it.
 
@@ -227,7 +227,7 @@
 
 **Link(s) to work**: 
 
-### Day 27: May 27, 2018
+### Day 28: May 28, 2018
 
 **Today's Progress**: Reviewed DOM manipulation
 
@@ -235,6 +235,13 @@
 
 **Link(s) to work**: 
 
+### Day 29: May 29, 2018
+
+**Today's Progress**: Started working on the memory game project.
+
+**Thoughts**: The hardest part is getting started!
+
+**Link(s) to work**: 
 
 
 
